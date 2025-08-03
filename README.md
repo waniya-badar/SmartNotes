@@ -15,12 +15,15 @@ It allows users to **Create, Read, Update, and Delete (CRUD)** notes with a MySQ
 - HTML5  
 - CSS3
 - Tailwind CSS
-- Blade Templates (Laravel's templating engine)  
+- Blade Templates (Laravel's templating engine)
+  
 **Backend**
 - PHP (Laravel Framework)  
-- MVC Architecture  
+- MVC Architecture
+  
 **Database**
-- MySQL  
+- MySQL
+  
 **Other Tools**
 - Composer (Dependency Manager)  
 - Artisan CLI (Laravel Command Line)  
